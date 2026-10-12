@@ -1,3 +1,7 @@
+<img width="2844" height="2130" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/86d695a4-b80a-4f61-8f66-410ccf1eecaa" />
+[Uploading Decodificando_Duna.pdf…]()
+[Uploading Decodificando_Duna.pdf…]()
+<img width="2844" height="2130" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/6d31ad53-96d2-4242-9b30-b64079869c79" />
 # segundo-cerebro-duna
 Segundo cérebro sobre Duna, de Frank Hebert, como parte de um exercício da aula Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
 
